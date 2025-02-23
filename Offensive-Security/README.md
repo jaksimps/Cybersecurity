@@ -13,8 +13,13 @@ This repository includes practical exercises that I have worked on during my off
 - **Post-Exploitation**
 
 
+### Lab Reports
 
-Each folder contains the relevant files and instructions for completing each lab, along with notes and findings from the exercises.
+- [Exploring Key Linux Commands for Penetration Testing](./Offensive-Security/Exploring%20Key%20Linux%20Commands%20for%20Penetration%20Testing.pdf)
+- [Network Scans](./Offensive-Security/NetworkScans.pdf)
+- [Passive Reconnaissance of Purdue.edu](./Offensive-Security/Passive%20Reconnaissance%20of%20Purdue.edu.pdf)
+
+
 
 ## 💻 Labs
 
