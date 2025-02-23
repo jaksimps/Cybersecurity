@@ -4,7 +4,7 @@
 
 The labs provide an interactive and comprehensive approach to learning digital forensics and security, simulating real-world IT environments without putting institutional assets at risk. These labs are a great way to practice critical cybersecurity skills and prepare for future roles in the field.
 
-## Labs
+## 💻 Labs
 
 ### Lab 1: [Applying the Daubert Standard to Forensic Evidence](./Applying%20the%20Daubert%20Standard%20to%20Forensic%20Evidence.pdf)
 An overview of how to apply the Daubert Standard to assess the reliability and validity of forensic evidence in digital investigations.
@@ -43,7 +43,7 @@ Techniques for conducting forensic investigations of system memory (RAM) to unco
 - **Hands-On Experience**: Unlike simulations, these labs provide direct interaction with the systems, allowing for true hands-on learning.
 - **Stand-Alone or Textbook Bundled**: Labs can be used independently or alongside Jones & Bartlett Learning textbooks.
 
-## Learning Goals
+## 📝 Learning Goals 
 
 - **Forensic Evidence Analysis**: Master techniques for recovering, analyzing, and presenting digital evidence.
 - **Incident Response**: Gain skills in investigating and responding to security incidents, from detection to documentation.
