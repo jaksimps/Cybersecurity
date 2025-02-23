@@ -15,9 +15,13 @@ This repository includes practical exercises that I have worked on during my off
 
 ### Lab Reports
 
-- [Exploring Key Linux Commands for Penetration Testing](./Offensive-Security/Exploring%20Key%20Linux%20Commands%20for%20Penetration%20Testing.pdf)
+- [Exploring Key Linux Commands for Penetration Testing](./Offensive-Security/Exploring Key Linux Commands for Penetration Testing.pdf)
 - [Network Scans](./Offensive-Security/NetworkScans.pdf)
-- [Passive Reconnaissance of Purdue.edu](./Offensive-Security/Passive%20Reconnaissance%20of%20Purdue.edu.pdf)
+- [Passive Reconnaissance of Purdue.edu](./Offensive-Security/Passive Reconnaissance of Purdue.edu.pdf)
+- [Password Cracking and Hash Analysis - Techniques and Time Estimates](./Offensive-Security/Password Cracking and Hash Analysis - Techniques and Time Estimates.pdf)
+- [Using Metasploit](./Offensive-Security/Using Metasploit.pdf)
+- [Sample Pentest](./Offensive-Security/SamplePentest.pdf)
+
 
 
 
