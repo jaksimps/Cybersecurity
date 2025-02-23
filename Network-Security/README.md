@@ -2,7 +2,7 @@
 
 Welcome to the **Network Security** subfolder! This directory contains various papers, guides, and demonstrations on network security, focusing on the configuration, defense strategies, and analysis techniques used in modern network security practices. The content here covers a wide range of topics including firewall configurations, malware analysis, network traffic analysis, system hardening, and more.
 
-## Papers & Projects
+## 📝💻 Papers & Projects
 
 - **[Adversary Emulation and APT Defense Strategies](./Adversary%20Emulation%20and%20APT%20Defense%20Strategies.pdf)**  
   A study on adversary emulation techniques and strategies for defending against Advanced Persistent Threats (APTs).
