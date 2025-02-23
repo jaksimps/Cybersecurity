@@ -6,6 +6,7 @@ Welcome to my **Cybersecurity** repository! This repo contains a variety of proj
 - [Digital Forensics](./Digital-Forensics/)
 - [Offensive Security](./Offensive-Security/)
 - [Network Security](./Network-Security/)
+- [Wireless Security](./Wireless-Security/)
 - [Cryptography](./Cryptography/)
 
 
